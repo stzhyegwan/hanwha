@@ -1,1 +1,4 @@
 kkkkkkkkkkkkkkkkkkkkk
+
+pull: pull remoteData in Local Storage
+kkkkkkkkk
