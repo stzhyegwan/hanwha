@@ -1,5 +1,8 @@
 kkkkkkkkkkkkkkkkkkkkk
 
+pull: pull remoteData in Local Storage
+kkkkkkkkk
+
 branch_cowork_1
 
 commit:save changes in index.
